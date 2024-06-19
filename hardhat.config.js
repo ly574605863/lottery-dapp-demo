@@ -16,7 +16,7 @@ module.exports = {
     },
     rinkeby: {
       url: "http://localhost:8545",
-      accounts: ["0xdb....", "0x3b...."]
+      accounts: ["6cca92c24a9cbfa1640d9a45d59c28dd4f4c960c3d2174d2417b55ba7d009ca0"]
     }
   },
   // solidity: {
